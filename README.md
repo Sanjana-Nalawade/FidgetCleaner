@@ -1,6 +1,6 @@
-###Fidget Cleaner
+### Fidget Cleaner
 
-###Abstract
+### Abstract
 
 Ceiling cleaning has always been a tedious job. The health of the cleaning staff is compromised and over a long time, it may lead to serious health issues. The efficiency for the same is also very questionable as it is not really possible for the workers to clean frequently and with the same efficiency. Cleaning the ceilings regularly, manually is also not very practical and there are no services that provide a solution to this issue. In this paper, the design, analysis, and development of a ceiling cleaner used for cleaning high elevated ceilings using suction mechanism on each arm to hold on to the ceiling and semicircular motion for cleaning is presented.
 
@@ -33,11 +33,11 @@ https://user-images.githubusercontent.com/66246207/159147635-f4a1877a-46d1-4612-
 
 <!-- Introduction -->
 
-###INTRODUCTION
+### INTRODUCTION
 
 We have witnessed a variety of vacuum cleaners from handheld vacuum to robotic vacuum used for cleaning floors and windows but for autonomous cleaning of ceilings. Ceil- ings are still cleaned in the traditional ways using long mop. At high elevated places like in a mall or an industry its more tedious and risky. We have designed a cleaning device addressing the same. Fidget cleaner is a smart cleaning device designed with the main intention of cleaning ceiling autonomously and reducing the tediousness and risk. It also increases the efficiency and frequency.
 
-###VIDEO PRESENTATION
+### VIDEO PRESENTATION
 
 
 https://user-images.githubusercontent.com/66246207/159147865-bc92e50c-74c3-4ca1-9069-0518c82a9c02.mp4
@@ -51,9 +51,7 @@ https://user-images.githubusercontent.com/66246207/159147865-bc92e50c-74c3-4ca1-
 
 Fig. 1. Fidget Cleaner
 
-Fidget Cleaner consist of 2 arms. These arms consist of suction mechanism created using vacuum pump. On mounting this device on ceiling the Arm 1 and 2 vacuum will be turned ON. Vacuum 2 voltage will be reduced and steeper motor 1 starts its rotation. Arm 2 will start moving and cleaning the area around 180 degree. After rotating 180 degree the rotation is reversed and it rotates negative 135
-
-degree. Now Arm 2 vacuum will be turned ON and Vacuum 1 voltage will be reduced and stepper motor 2 will rotate 45 degree and Arm 2 will be parallel to arm 1 at this stage. This procedure is repeated till the ultrasonic sensor detects an obstacle. On detection of an obstacle, the cleaner will use the same algorithm to move sideways by 180 degrees. And the exact opposite procedure begins. This will help cleaning the ceiling upside down in 2 dimensional aspects.
+Fidget Cleaner consist of 2 arms. These arms consist of suction mechanism created using vacuum pump. On mounting this device on ceiling the Arm 1 and 2 vacuum will be turned ON. Vacuum 2 voltage will be reduced and steeper motor 1 starts its rotation. Arm 2 will start moving and cleaning the area around 180 degree. After rotating 180 degree the rotation is reversed and it rotates negative 135 degree. Now Arm 2 vacuum will be turned ON and Vacuum 1 voltage will be reduced and stepper motor 2 will rotate 45 degree and Arm 2 will be parallel to arm 1 at this stage. This procedure is repeated till the ultrasonic sensor detects an obstacle. On detection of an obstacle, the cleaner will use the same algorithm to move sideways by 180 degrees. And the exact opposite procedure begins. This will help cleaning the ceiling upside down in 2 dimensional aspects.
 <!-- FLOWCHART -->
 ### FLOWCHART
 
@@ -86,11 +84,11 @@ Fidget Cleaner has huge great market available already. Although being a huge ma
 
 As per the current market scenario there is no such automated product available that could clean the ceilings. Traditional method of mob cleaning is used for the same. Fidget cleaner using suction mechanism cleans the ceiling. The suction mechanism helps the fidget cleaner to hold on to the ceiling. With changing the voltage And help of the steeper motors the product traverses the entire ceiling and cleans the inaccessible corners with great ease and efficiency. This product will be a table turner in the market and with slight changes it will be able to clean the ceilings as well as the floor. To further enhance the cleaning mechanism we can exper- iment with various different technologies. Cleaner brushes can be improved for better efficiency. The size of the prototype can be compacted with the help of stronger but lighter suction motors. To further improve it’s performance obstacle detection sensors can be embeded on the prototype.
 <!-- Introduction -->
-###ACKNOWLEDGMENT
+### ACKNOWLEDGMENT
 
 We would like to thank A.P. Shah Institute of Tech- nology, Thane for providing us with the space and other resources to successfully complete this project. We also thank Prof. Kaushiki Upadhyaya, Prof. Selvin Futardo, Prof Kiran Despande for their guidance.
 <!-- Introduction -->
-###REFERENCES
+### REFERENCES
 
 1. Yu Yoshida, Shugen Ma, “Design of a Wall-Climbing Robot with Passive Suction Cups” in Proceedings of the 2010 IEEE International Conference on Robotics and Biomimetics December 14-18, 2010, Tianjin, China
 1. Tsutomu Takeshita, Tetsuo Tomizawa and Akihisa Ohya, “ A House Cleaning Robot System -Path indication and Position estimation using ceiling camera” in SICE-ICASE International Joint Conference 2006 Oct. 18-21, 2006 in Bexco, Busan, Korea.
